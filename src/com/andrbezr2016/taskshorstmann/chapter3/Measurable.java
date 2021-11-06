@@ -45,8 +45,7 @@ public interface Measurable {
                 if (obj.getMeasure() > result.getMeasure()) result = obj;
             }
             return result;
-        } else {
-            return null;
         }
+        return null;
     }
 }

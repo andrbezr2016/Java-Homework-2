@@ -10,7 +10,7 @@ public class Main {
         // Task 4
         System.out.println("==Task 4==");
         Circle circle = new Circle(new Point(1, 1), 2.5);
-        Rectangle rectangle = new Rectangle(new Point(- 1, 1), 3, 3);
+        Rectangle rectangle = new Rectangle(new Point(-1, 1), 3, 3);
         Line line = new Line(new Point(0, 0), new Point(2, 4));
         System.out.println(circle + " center: " + circle.getCenter());
         System.out.println(rectangle + " center: " + rectangle.getCenter());
