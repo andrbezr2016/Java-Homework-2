@@ -1,4 +1,4 @@
-package com.andrbezr2016.taskshorstmann.chapter3;
+package com.andrbezr2016.tasks2.chapter3;
 
 /*
 Provide an interface Measurable with a method double getMeasure() that measures

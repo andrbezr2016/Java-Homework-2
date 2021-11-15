@@ -1,4 +1,4 @@
-package com.andrbezr2016.taskshorstmann.chapter2;
+package com.andrbezr2016.tasks2.chapter2;
 
 import java.util.Objects;
 

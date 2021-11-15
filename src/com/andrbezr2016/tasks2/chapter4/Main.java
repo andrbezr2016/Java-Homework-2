@@ -1,9 +1,9 @@
-package com.andrbezr2016.taskshorstmann.chapter4;
+package com.andrbezr2016.tasks2.chapter4;
 
-import com.andrbezr2016.taskshorstmann.chapter2.Point;
-import com.andrbezr2016.taskshorstmann.chapter4.shapes.Circle;
-import com.andrbezr2016.taskshorstmann.chapter4.shapes.Line;
-import com.andrbezr2016.taskshorstmann.chapter4.shapes.Rectangle;
+import com.andrbezr2016.tasks2.chapter2.Point;
+import com.andrbezr2016.tasks2.chapter4.shapes.Circle;
+import com.andrbezr2016.tasks2.chapter4.shapes.Line;
+import com.andrbezr2016.tasks2.chapter4.shapes.Rectangle;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.andrbezr2016.taskshorstmann.chapter4.shapes;
+package com.andrbezr2016.tasks2.chapter4.shapes;
 
-import com.andrbezr2016.taskshorstmann.chapter2.Point;
+import com.andrbezr2016.tasks2.chapter2.Point;
 
 import java.util.Objects;
 
